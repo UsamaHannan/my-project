@@ -5,7 +5,7 @@
 <SideBar/>
         </v-col>
 
-        <v-col cols="10">
+        <v-col cols="10" class="bg-grey-lighten-5"> 
 <DestinationUi/>
         </v-col>
     </v-row>
